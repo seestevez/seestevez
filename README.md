@@ -14,7 +14,7 @@
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/django.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="42" height="42" /></a></p>
 <h2>❤️ Support Me</h2>
 <p><p>
-<a href="https://www.ko-fi.com/https://dcm4che.atlassian.net/wiki/spaces/ee2/pages/1172275206/Installation+dcm4chee+2.18.3">
+<a href="https://www.youtube.com/watch?v=0wJ4K_Ucyaw">
 <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="160" alt="ko-fi" />
 </a>
 </p>
